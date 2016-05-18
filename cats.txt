@@ -1,1 +1,2 @@
 sample text line 1
+cats rule, dogs drool
